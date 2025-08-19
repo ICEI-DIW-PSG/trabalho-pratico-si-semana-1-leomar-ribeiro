@@ -9,7 +9,7 @@ Matricula: 902927
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Tela](Captura de tela 2025-08-15 211038.png)
 
 ## Tela de projeto no Replit
 
