@@ -9,11 +9,11 @@ Matricula: 902927
 
 ## Tela de inspeção com navegador
 
-![Tela](Captura de tela 2025-08-15 211038.png)
+![Tela](images\brasao_puc.png)
 
 ## Tela de projeto no Replit
 
-`<Coloque aqui o print da tela do projeto no Replit>`
+`<Coloque aqui o print da tela do projeto no Replit>
 
 
 ## Orientações sobre Linguagem MarkDown
